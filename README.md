@@ -1,0 +1,2 @@
+# aygaz_python_bootcamp
+tas_kagit_makas_reyyanturhanoglu
